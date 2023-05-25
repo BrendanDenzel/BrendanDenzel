@@ -2,7 +2,7 @@
 
 ## I'm am somewhat a developer!
 - 💫 I'm kinda new to coding
-- 💪🏻 13 years old
+- 💪🏻 14 years old
 - 💻 Im basically only learning HTML, Javascript, and CSS
 
 ## My Stats
